@@ -1,0 +1,58 @@
+[
+  {
+    "messageID": "5838109553",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "58:0:THISMESSAGE"
+  },
+  {
+    "messageID": "5401635759",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "54:0:THISMESSAGE"
+  },
+  {
+    "messageID": "9373712913",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "93:0:THISMESSAGE"
+  },
+  {
+    "messageID": "3261309473",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "32:0:THISMESSAGE"
+  },
+  {
+    "messageID": "8840771001",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "88:0:THISMESSAGE"
+  },
+  {
+    "messageID": "5555781576",
+    "messageNumber": 0,
+    "recipient": "+27718693002",
+    "messageText": "This is a test message.",
+    "messageHash": "55:0:THISMESSAGE"
+  },
+  {
+    "messageID": "6310713044",
+    "messageNumber": 0,
+    "recipient": "+27838968977",
+    "messageText": "efsf",
+    "messageHash": "63:0:EFSFEFSF"
+  },
+  {
+    "messageID": "2137153352",
+    "messageNumber": 1,
+    "recipient": "+27838968976",
+    "messageText": "Hry Jap",
+    "messageHash": "21:1:HRYJAP"
+  }
+]

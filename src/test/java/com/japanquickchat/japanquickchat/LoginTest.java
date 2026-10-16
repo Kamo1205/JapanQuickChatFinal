@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class LoginTest {
-
+    
     @Test
     public void testCheckUserNameCorrect() {
         Login login = new Login(
